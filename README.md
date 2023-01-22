@@ -7,8 +7,8 @@
 
 🤓 Some facts about me:
 
-- 🌏 I live in Stockholm, Sweden
-- 🔭 I’m currently working at [Zettle by PayPal](https://www.zettle.com/) as a Backend Developer
+- 🌏 I live in Amsterdam, Netherlands
+- 🔭 I’m currently working at [Adyen](https://www.adyen.com/) as a Backend Developer
 - 👀 I’m interested in contributing to open source
 
 ### Languages
