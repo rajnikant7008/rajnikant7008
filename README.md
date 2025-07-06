@@ -8,8 +8,8 @@
 🤓 Some facts about me:
 
 - 🌏 I live in Amsterdam, Netherlands
-- 🔭 I’m currently working at [Adyen](https://www.adyen.com/) as a Backend Developer
-- 👀 I’m interested in contributing to open source
+- 🔭 I’m currently working at [Adyen](https://www.adyen.com/) as Development Team Lead
+- 👀 I’m interested in solving scalability challenges
 
 ### Languages
 
